@@ -121,6 +121,10 @@ animate();
 
 通过`requestAnimationFrame`将正方体旋转起来
 
+## Demo
+
+[Demo](https://threejs-journey-eta.vercel.app/)
+
 ## 参考资料
 
 [Creating a scene](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
